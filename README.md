@@ -2,8 +2,7 @@
 
 Tag input in text field
 
-## Getting Started
-
+## Getting Start
 
 This project is a starting point for a Flutter application.
 
